@@ -1,4 +1,4 @@
-csharp-basico
+Taller de C# - Básico
 =============
 
-Taller de C# - Básico
+Código de los ejemplos del taller.
